@@ -5,6 +5,7 @@
   "description": "Dynamic IP Updater for Cloudflare in hass.io",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "url": "https://github.com/davidramosweb/hassio_cloudflareipupdater",
+  "init": "false",
   "startup": "system",
   "boot": "auto",
 
